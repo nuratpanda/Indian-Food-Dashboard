@@ -1,6 +1,6 @@
 # Indian-Food-Dashboard
-
-Good day everyone, in my previous post, I mentioned that I had embarked on a journey to learn Excel, and I shared a project that I had worked on using this software. I am delighted to present another project I have completed using Excel. This project revolves around the "Indian Food Dataset," which I obtained from Kaggle. The dataset originates from a restaurant in India, and I'd like to share some key insights that I've extracted from it.
+![indianfooddashboard2](https://github.com/nuratpanda/Indian-Food-Dashboard/assets/95349145/fe23dba7-ff01-400b-8fd6-49ae3552001f)
+I am delighted to present another project I have completed using Excel. This project revolves around the "Indian Food Dataset," which I obtained from Kaggle. The dataset originates from a restaurant in India, and I'd like to share some key insights that I've extracted from it.
 Insights:
 📌         The typical preparation time for each dish in the restaurant averages around 28.59 minutes.
 📌         The typical cooking time for each dish in the restaurant averages around 30.83 minutes.
